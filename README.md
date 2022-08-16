@@ -1,5 +1,4 @@
-# SQL_Project
-Analyze International Debt Statistics
+# Analyze International Debt Statistics
 
 What is the total amount of debt that is owed by the countries listed in the dataset?
 Which country owns the maximum amount of debt and what does that amount look like?
